@@ -1,0 +1,15 @@
+.footer .icons *{
+    display: inline-block;
+    vertical-align: middle;
+    height: 2em;
+    position: relative;
+    width: 2.5em;
+}
+.footer .icons *:hover{
+    color: rgb(10, 180, 232);
+    cursor: pointer;
+}
+.footer{
+    margin: 20px;
+    padding: 10px;
+}

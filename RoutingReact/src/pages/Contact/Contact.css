@@ -1,0 +1,7 @@
+.cont form input{ 
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin: 10px auto;
+
+}
